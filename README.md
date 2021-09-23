@@ -32,4 +32,4 @@ More functionalities are coming like:
 
 
 
-![Pokedex App screenshot](/home/sebastien/Flutter%20Projects/pokedex_app/screenshots/pokedex.jpg)
+![Pokedex App screenshot](https://github.com/sebandroidev/flutter-pokedex-app/blob/master/screenshots/pokedex.jpg)
