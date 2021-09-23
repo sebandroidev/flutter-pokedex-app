@@ -1,16 +1,35 @@
-# pokedex_app
+# POKEDEX APP
 
-A new Flutter project.
+This is a simple pokedex app built with Flutter and PokeAPI.
 
-## Getting Started
+## Functionalities
 
-This project is a starting point for a Flutter application.
+Pokedex app functionalities are the following:
 
-A few resources to get you started if this is your first Flutter project:
+- Show a list of pokemons on home page
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Search for specific pokemon using searchbar
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Checkout pokemon details
+
+- Add pokemons to favorites
+
+
+
+More functionalities are coming like:
+
+- Download retro pokemon games on various platforms like gameboy advance using pokedex app
+
+- Switch light and dark mode in the app
+
+- Share pokemon infos on socials
+
+- And so on. 
+  
+  
+  
+  Suggest 📱 me more are you want. I will try to implement them 🙂. Checkout more on my instagram: https://www.instagram.com/devbyseb/
+
+
+
+![Pokedex App screenshot](/home/sebastien/Flutter%20Projects/pokedex_app/screenshots/pokedex.jpg)
